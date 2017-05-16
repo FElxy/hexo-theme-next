@@ -292,7 +292,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: mansu.disqus.com
 
 # Hypercomments
 #hypercomments_id:
@@ -465,7 +465,7 @@ use_motion: true
 fancybox: true
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
