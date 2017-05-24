@@ -292,7 +292,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-disqus_shortname: mansu
+# disqus_shortname: mansu
 
 # Hypercomments
 #hypercomments_id:
@@ -303,6 +303,12 @@ disqus_shortname: mansu
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
 #youyan_uid: your uid
+
+# gitment
+gitment_repo: hexo_blog
+gitment_oauth: 
+  client_id: b0181be2db9a72a9faca
+  client_secret: 53c500a7812f0fffcbb41d34a8ca256d401ab98d
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
@@ -465,7 +471,7 @@ use_motion: true
 fancybox: true
 
 # Canvas-nest
-canvas_nest: false
+# canvas_nest: false
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
